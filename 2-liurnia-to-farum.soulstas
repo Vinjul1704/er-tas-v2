@@ -1,0 +1,169 @@
+; Version 1.04
+; Liurnia to Farum FQWW
+
+; Default settings as base
+; Auto-Target = Off
+; Camera Auto Rotation = Off
+; Camera Auto Wall Recovery = Off
+; HUD = On
+; Mouse sensitivity = 0
+; Tutorials = Off
+
+
+0 await focus
+0 await control
+
+
++0 mouse move 18022 0
+
++116 mouse button down right
++0 key down alt_l
+
++0 key down w
++57 key up w
+
++15 key down w
++7 key up w
+
++1 key down w
++2 key up w
+
++4 mouse button down left
++1 mouse button up left
+
++0 mouse button up right
++0 key up alt_l
+
++49 key down escape
++1 key up escape
++0 key down e
++1 key up e
++0 key down arrow_right
++1 key up arrow_right
++0 key down r
++1 key up r
++0 key down escape
++1 key up escape
+
++0 mouse button down left
++1 mouse button up left
+
++58 mouse move 8800 0
+
++30 mouse button down right
++0 key down alt_l
+
++0 key down w
++57 key up w
+
++0 mouse move 10190 0
+
++13 key down w
++9 key up w
+
++30 mouse button up right
++0 key up alt_l
+
+
+; We land so early, the chest
+; isn't loaded yet...
++180 key down e ; Possibly lower? 170-ish?
++1 key up e
+
++21 key down e ; Possibly lower?
++1 key up e
+
++21 key down e ; Possibly lower?
++1 key up e
+
+
++55 mouse move 22000 0
++0 mouse button down right
++0 key down alt_l
+
++0 key down w
++57 key up w
+
++0 mouse move -9050 5000
+
++16 key down w
++6 key up w
+
++3 mouse button down left
++1 mouse button up left
+
++0 mouse button up right
++0 key up alt_l
+
+
++138 mouse button down left
++1 mouse button up left
+
+
++65 mouse move 9100 0
+
++0 mouse button down right
++0 key down alt_l
+
++0 key down w
++57 key up w
+
++13 key down w
++9 key up w
+
++3 mouse button down left
++1 mouse button up left
+
++0 mouse button up right
++0 key up alt_l
+
+
++53 mouse button down left
++1 mouse button up left
+
++127 key down e
++1 key up e
+
++2 key down arrow_left
++1 key up arrow_left
+
++0 key down e
++1 key up e
+
++180 key down e
++1 key up e
+
++67 mouse move 2000 0
+
++0 key down d
++31 key up d
+
++0 key down e
++1 key up e
+
++2 key down arrow_left
++1 key up arrow_left
+
++0 key down e
++1 key up e
+
++0 await no_control
++0 await control
+
++0 key down w
++88 key up w
+
++0 key down r
++1 key up r
+
++1 key down arrow_left
++1 key up arrow_left
+
++0 key down e
++1 key up e
+
+; MANUALLY DO ALT+F4 IN THE
+; LOADING SCREEN FOR FQWW
+
+
++120 nothing

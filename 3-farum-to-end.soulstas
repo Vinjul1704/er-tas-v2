@@ -1,0 +1,392 @@
+; Version 1.04
+; Farum to End
+
+; Default settings as base
+; Auto-Target = Off
+; Camera Auto Rotation = Off
+; Camera Auto Wall Recovery = Off
+; HUD = On
+; Mouse sensitivity = 0
+; Tutorials = Off
+
+
+0 await focus
+0 await control
+
+
++117 mouse move 8000 0
+
++0 mouse button down right
++0 key down alt_l
+
++0 key down w
++57 key up w
+
++0 mouse move -6400 0
+
++14 key down w
++8 key up w
+
++9 mouse button down left
++1 mouse button up left
+
+
++60 mouse move 3580 10000
++0 mouse button up right
++0 key up alt_l
+
++0 mouse button down left
++1 mouse button up left
+
+
++50 key down escape
++1 key up escape
+
++0 key down e
++1 key up e
+
++0 key down r
++1 key up r
+
++2 key down e
++1 key up e
+
++1 key down e
++1 key up e
+
++0 key down escape
++1 key up escape
+
++1 key down escape
++1 key up escape
+
++0 key down e
++1 key up e
+
++0 key down arrow_right
++1 key up arrow_right
+
++0 key down e
++1 key up e
+
++0 key down arrow_down
++1 key up arrow_down
+
++0 key down e
++1 key up e
+
++0 key down escape
++1 key up escape
+
+
++244 mouse button down right
++0 key down alt_l
+
++0 key down w
++57 key up w
+
++17 key down w
++5 key up w
+
++2 key down w
++2 key up w
+
++5 mouse button down left
++1 mouse button up left
+
+
++55 mouse move -2000 0
+
++0 mouse button up right
++0 key up alt_l
+
++0 mouse button down left
++1 mouse button up left
+
+
++130 mouse button down right
++0 key down alt_l
+
++0 key down w
++57 key up w
+
++13 key down w
++9 key up w
+
++14 key down w
++2 key up w
+
+
++300 mouse button up right
++0 key up alt_l
+
++0 mouse button down left
++1 mouse button up left
+
+
++0 await cutscene
+
++0 key down escape
++1 key up escape
+
++1 key down escape
++1 key up escape
+
+
++0 await no_control
++0 await control
+
+
++0 mouse move 20500 0
+
++0 mouse button down right
++0 key down alt_l
+
++0 key down w
++57 key up w
+
++17 key down w
++5 key up w
+
++2 key down w
++2 key up w
+
++1 key down space
++1 key up space
+
++10 mouse button up right
++0 key up alt_l
+
+
++36 mouse move -5300 0
+
++0 mouse button down right
++0 key down alt_l
+
++10 key down e
++1 key up e
+
++19 key down e
++1 key up e
+
++19 key down e
++1 key up e
+
++19 key down e
++1 key up e
+
++55 key down w
++7 key up w
+
+
++30 mouse button up right
++0 key up alt_l
+
+
++0 mouse move -6900 0
+
++0 key down w
++0 key down space
+
++60 key down f
++1 key up f
+
++71 key up w
++0 key up space
+
++0 key down e
++1 key up e
+
+
++30 key down w
++0 key down space
+
++168 key up w
++0 key up space
+
++14 mouse move -5350 0
+
++0 mouse button down right
++0 key down alt_l
+
++0 key down w
++57 key up w
+
++13 key down w
++9 key up w
+
++14 key down w
++2 key up w
+
++30 mouse button up right
++0 key up alt_l
+
+
++141 mouse button down left
++1 mouse button up left
+
+
++0 await cutscene
+
++0 key down escape
++1 key up escape
+
++1 key down escape
++1 key up escape
+
++0 await no_cutscene
++0 await cutscene
+
++0 key down escape
++1 key up escape
+
++1 key down escape
++1 key up escape
+
+
++0 await no_control
++0 await control
+
+
++8 mouse move -3950 0
+
++0 mouse button down right
++0 key down alt_l
+
++0 key down w
++57 key up w
+
++15 key down w
++7 key up w
+
++30 mouse button up right
++0 key up alt_l
+
+
++82 mouse move 4000 0
+
++0 mouse button down right
++0 key down alt_l
+
++0 key down w
++57 key up w
+
++13 key down w
++9 key up w
+
++14 key down w
++2 key up w
+
++30 mouse button up right
++0 key up alt_l
+
++150 mouse button down left
++1 mouse button up left
+
+
++0 await cutscene
+
++0 key down escape
++1 key up escape
+
++1 key down escape
++1 key up escape
+
+
++0 await no_control
++0 await control
+
+
++0 key down s
++0 key down space
+
++240 key down a
++60 key up s
+
++150 key down w
++30 key up a
+
++69 key up w
++0 key up space
+
+
++0 key down escape
++1 key up escape
+
++0 key down arrow_up
++1 key up arrow_up
+
++0 key down e
++1 key up e
+
++0 key down y
++1 key up y
+
++0 key down e
++1 key up e
+
++1 key down arrow_left
++1 key up arrow_left
+
++0 key down e
++1 key up e
+
+
++0 await no_save_active
+
++3 key down e
++1 key up e
+
++1 key down e
++1 key up e
+
++60 key down e
++1 key up e
+
+
++0 await cutscene
+
++0 key down escape
++1 key up escape
+
++1 key down escape
++1 key up escape
+
+
++0 await control
+
++0 key down w
++0 key down space
+
++30 key down e
++1 key up e
+
++40 key up w
++0 key up space
+
++0 key down e
++1 key up e
+
++2 key down e
++1 key up e
+
+
++0 await cutscene
+
++0 key down escape
++1 key up escape
+
++1 key down escape
++1 key up escape
+
++0 await no_cutscene
++0 await cutscene
+
++0 key down escape
++1 key up escape
+
++1 key down escape
++1 key up escape
+
+
++120 nothing

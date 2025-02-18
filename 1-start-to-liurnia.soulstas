@@ -1,0 +1,124 @@
+; Version 1.04
+; Start to Liurnia FQWW
+
+; Default settings as base
+; Auto-Target = Off
+; Camera Auto Rotation = Off
+; Camera Auto Wall Recovery = Off
+; HUD = On
+; Mouse sensitivity = 0
+; Tutorials = Off
+
+
+0 await focus
+0 await cutscene
+
++0 key down escape
++1 key up escape
+
++1 key down escape
++1 key up escape
+
++1 await control
+
++0 mouse move -14712 0
++0 mouse button down right
++0 key down alt_l
++0 key down w
+
++25 mouse move 18002 0
+
++32 key up w
+
++17 key down w
++5 key up w
+
++8 key up alt_l
++0 mouse button up right
+
++0 key down escape
++1 key up escape
++0 key down e
++1 key up e
++0 key down arrow_right
++1 key up arrow_right
++0 key down r
++1 key up r
++0 key down escape
++1 key up escape
+
++31 mouse button down right
++0 mouse move -9500 0
++0 key down w
++0 key down space
+
++55 mouse move -2700 0
++20 mouse move -1700 0
++32 mouse move -2728 0
+
++8 mouse button up right
++0 key up w
++0 key up space
+
++7 mouse button down right
++0 key down alt_l
++0 key down w
+
++57 key up w
++0 mouse move -700 0
+
++16 key down w
++6 key up w
+
++60 mouse button up right
++0 key up alt_l
+
++0 mouse move 18000 50000
++0 key down escape
++1 key up escape
++0 key down e
++1 key up e
++0 key down arrow_right
++1 key up arrow_right
++0 key down e
++1 key up e
++0 key down arrow_down
++1 key up arrow_down
++0 key down e
++1 key up e
++2 key down q
++1 key up q
++14 key down arrow_up
++1 key up arrow_up
++0 key down e
++1 key up e
++1 key down e
++1 key up e
++0 key down escape
++1 key up escape
+
++180 key down e
++0 mouse button down left
+
++1 key up e
++0 mouse button up left
+
++9 key down w
++0 key down space
++0 mouse button down right
+
++40 key up w
++0 key up space
++0 mouse button up right
+
++0 key down r
++1 key up r
++1 key down arrow_left
++1 key up arrow_left
++0 key down e
++1 key up e
+
+; MANUALLY DO ALT+F4 IN THE
+; LOADING SCREEN FOR FQWW
+
++180 nothing
